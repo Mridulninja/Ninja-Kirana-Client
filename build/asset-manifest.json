@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.944cc511.css",
+    "main.js": "/static/js/main.5059d024.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/rupee-circle.png": "/static/media/rupee-circle.74becfd760f7916e5c2c.png",
+    "static/media/sellerslist.png": "/static/media/sellerslist.ed7b1c334a2d2a8073db.png",
+    "index.html": "/index.html",
+    "main.944cc511.css.map": "/static/css/main.944cc511.css.map",
+    "main.5059d024.js.map": "/static/js/main.5059d024.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944cc511.css",
+    "static/js/main.5059d024.js"
+  ]
+}
